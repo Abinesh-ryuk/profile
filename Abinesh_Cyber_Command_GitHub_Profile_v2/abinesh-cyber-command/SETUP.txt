@@ -1,0 +1,27 @@
+ABINESH T — CYBER COMMAND GITHUB PROFILE
+
+GitHub username: Abinesh-ryuk
+
+PUBLISH:
+1. Extract this ZIP.
+2. Open https://github.com/Abinesh-ryuk
+3. Create a PUBLIC repository named exactly Abinesh-ryuk if the profile README repository does not already exist.
+4. Upload README.md and the entire assets folder. Preserve:
+   README.md
+   assets/cyber-command-banner.gif
+   assets/footer.svg
+5. Commit to the main branch and refresh your profile.
+
+PROFILE DETAILS INCLUDED:
+- B.Sc. Computer Technology — 79%
+- Cybersecurity development, data and full-stack skills
+- Hobbies: gym, gaming, editing, reading, exploring tech, handyman/DIY
+- Personality description based on hands-on problem solving, curiosity, resourcefulness and consistency
+- Separate live current-streak and longest-streak cards
+
+IMPORTANT:
+- The daily streak figures are dynamically fetched from the external streak-stats service; no number is fabricated or hard-coded.
+- Stats services can be temporarily unavailable or rate-limited.
+- Technology icons are served by skillicons.dev.
+- Project names and short descriptions were based on repositories visible in your screenshot. Verify each one before publishing.
+- College name, graduation year, LinkedIn and email were not provided, so they are intentionally omitted.
